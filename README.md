@@ -27,7 +27,8 @@
             HvcwCommonDef.h        エラーコード定義
 
       sample/
-         src/                      JNIサンプル
+         src/                      JNIサンプル　←サンプルでなく、サポートしてほしいです。
+         
             main/
                java/               javaソースコード
                jni/                JNIソースコード
